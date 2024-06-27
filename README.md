@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **SpringBoot, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ShubhamSingh-28/ShubhamSingh-28/issues)**
 
