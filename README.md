@@ -56,9 +56,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=ShubhamSingh-28&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh-28&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh-28&show_icons=true&count_private=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh-28&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh-28&hide=HTML&count_private=true&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
    
 </div>
 
