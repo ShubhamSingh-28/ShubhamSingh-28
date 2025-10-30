@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamSingh-28/ShubhamSingh-28" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NISHANTCHAUHAN1&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ShubhamSingh-28&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
 <h1 align="center">
