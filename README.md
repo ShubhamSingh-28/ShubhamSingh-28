@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **SpringBoot, AWS**
+ 🌱 I’m currently learning **GenAi & ML, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ShubhamSingh-28/ShubhamSingh-28/issues)**
 
